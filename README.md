@@ -40,6 +40,12 @@ scheduling, and approval machinery that makes one-person operation of several pr
 
 ### Public work
 
+- **[schedule-sentinel](https://github.com/yagebin79386/schedule-sentinel)** — registry plus verifier
+  that proves every scheduled machine is still alive, and catches drift between the registry and the
+  scheduler in both directions. Extracted from the operations layer above. Stdlib only.
+- **[awesome-governed-agents](https://github.com/yagebin79386/awesome-governed-agents)** — curated
+  tools and prior art for agents whose consequential actions pass approval gates, policy checks, and
+  auditable decision records.
 - **[openclaw-disk-cleanup](https://github.com/yagebin79386/openclaw-disk-cleanup)** — governed
   disk-reclaim agent skill for self-hosted VPS ops; dry-run by default, audited reclaim report.
 
