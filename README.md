@@ -1,105 +1,51 @@
-<h1 align="center">Hi 👋, I'm Ruiqi Tan</h1>
-<h3 align="center">AI Automation Engineer | DevOps & Backend | LLM + RAG Workflow Designer</h3>
+# Ruiqi Tan
 
-- 🔭 Currently building intelligent automation consulting platform using AI agents with A2A framework, and automatic web-scrapling
+**AI-Native Superindividual Product Systems Builder** · [Silicon Awakening](https://siliconawakening.tech)
 
-- 🌱 Deepening expertise in **Web3, JavaScript backend (Fastify), and multi-agent orchestration**
+I build and document **governed AI systems** that let one person research, decide, build, market, and
+operate real products. The through-line in everything below is the same: agents do the work, but every
+outward-facing or irreversible step passes a **human-gated approval** with a decision record behind it.
 
-- 🤖 Exploring ways to use LLMs (like Mistral, GPT) to optimize real-world decision-making  
+---
 
-- 👯 I’m looking to collaborate on **utilising AI to automate boring and reduandent tasks in workflow**
+### What I actually work on
 
-- 🧠 Learning by doing: launching full-stack tools to automate compliance, data processing, and user consulting  
+**Governed agent operating system.** A multi-agent runtime where scheduled work is declared in a
+manifest and supervised by a registry-and-verifier pair, changes reach production through GitOps
+reconciliation with syntax gates and automatic rollback, and any externally-visible action is stopped
+at a fail-closed approval card. Expiry means *not approved* — a timeout never reads as consent.
 
-- 💬 Ask me about: **fine-tuning, vector search, web scrawling, or automating human workflows**
+**Human-gated decision surface.** Approval cards, typed decision records, and blocked-task escalation,
+so an autonomous system can run unattended without ever silently deciding something a human should own.
 
-- 📫 How to reach me **rickytan79386@gmail.com**
+**Provenance-first content and evidence.** Marketing and research output grounded in a product-context
+document and an entity graph, with claims traceable to artifacts rather than to model recall.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ruiqi-tan-5708a358/](https://www.linkedin.com/in/ruiqi-tan-5708a358/)
+**Measurement as a first-class lane.** Weekly deterministic quality rollups gate whether an expensive
+LLM review is warranted at all; delayed outcome signals only influence anything after enough
+observations exist. Quiet weeks cost nothing.
 
-- ⚡ Fun fact **Pronous for me is Tech-affinity and liberal**
+### Things I have shipped or run
 
+| | Stage |
+|---|---|
+| **SA-OS + Hermes** — governed multi-agent operating system, running my own operations daily | implemented |
+| **Wakeworth** — SME valuation and matchmaking platform | production |
+| **AI Educator** — structured problem-solving and learning system | production |
+| **Mindscast** — product-grounded marketing content platform | in development |
+| **Vigaro** — multi-agent dynamic defense | architecture stage |
 
+Most of these run as private products. What I open here are the **mechanisms** — the governance,
+scheduling, and approval machinery that makes one-person operation of several products survivable.
 
-<h3 align="center">🔥 Featured Projects</h3>
+### Public work
 
-- **SmartHome-AI-Agent-Chain**  
-  Multi-agent system for smart home consulting with LangChain, FastAPI, vector DB, and LLM dialog orchestration  
-  [🔗 GitHub Repo](https://github.com/yagebin79386/Home_smartify_agentic_constulting)
+- **[openclaw-disk-cleanup](https://github.com/yagebin79386/openclaw-disk-cleanup)** — governed
+  disk-reclaim agent skill for self-hosted VPS ops; dry-run by default, audited reclaim report.
 
-- **Job Match Analyzer**  
-  AI job position fitness scoring depends on personal RAG system and online position scrawling
-  [🔗 GitHub Repo](https://github.com/yagebin79386/Job_Match_Analyzer_with_RAG)
+*More mechanism slices are being prepared for release.*
 
-- **AI Newsletter Automation**  
-  Web crawler → classifier → summarizer → email pipeline using Python + LLMs  
-  [🔗 GitHub Repo](https://github.com/yagebin79386/AI_News)
+---
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ruiqi tan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruiqi tan" height="30" width="40" /></a>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Existing Icons -->
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-
-  <!-- New Additions -->
-
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OpenAI-4AE1FE?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge" />
-  </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LangChain-005571?style=for-the-badge&logo=python&logoColor=white" alt="langchain" />
-  </a>
-</p>
-
+📍 Luxembourg · ✍️ [siliconawakening.tech](https://siliconawakening.tech) ·
+💼 [LinkedIn](https://www.linkedin.com/in/ruiqi-tan-5708a358/)
