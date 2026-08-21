@@ -40,6 +40,9 @@ scheduling, and approval machinery that makes one-person operation of several pr
 
 ### Public work
 
+- **[fail-closed-gate](https://github.com/yagebin79386/fail-closed-gate)** — the approval protocol
+  itself: file-backed gates, an append-only decision ledger, and expiry that blocks instead of
+  consenting. The mechanism described above, extracted. Stdlib only.
 - **[schedule-sentinel](https://github.com/yagebin79386/schedule-sentinel)** — registry plus verifier
   that proves every scheduled machine is still alive, and catches drift between the registry and the
   scheduler in both directions. Extracted from the operations layer above. Stdlib only.
